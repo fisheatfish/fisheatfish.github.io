@@ -6,6 +6,12 @@
 
 - name: "Enseignement"
   link: "enseignement"
+  subcategories: 
+    - subname: "Python"
+      sublink: "/enseignement/python/introduction-a-la-programmation"
+    - subname: "SQL"
+      sublink: "/enseignement/sql/administration-base-de-donnee"
+  
   
 - name: "A propos"
   link: "/"
