@@ -5,7 +5,6 @@
   link: "resume.pdf"
 
 - name: "Enseignement"
-  link: "enseignement"
   subcategories: 
     - subname: "Python"
       sublink: "/enseignement/python/introduction-a-la-programmation"
